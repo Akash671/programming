@@ -14,4 +14,3 @@ for t in range(int(input())):
      I=str(input())
      P=str(input())
      print("Case #"+str(t+1)+": ",solve(I,P))
-     

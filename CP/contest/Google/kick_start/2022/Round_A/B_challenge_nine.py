@@ -32,5 +32,5 @@ for t in range(int(input())):
      # I=str(input())
      # P=str(input())
      n=int(input())
-     print("Case #"+str(t+1)+": ",solve(n))
+     print("Case #"+str(t+1)+": "+str(solve(n)))
      
