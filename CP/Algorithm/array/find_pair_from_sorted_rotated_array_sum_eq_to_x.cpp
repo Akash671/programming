@@ -3,6 +3,8 @@ author    : @akash kumar
 institute : @MIT Moradabad 
 */
 
+
+//@code
 #include<bits/stdc++.h>
 using namespace std;
 
