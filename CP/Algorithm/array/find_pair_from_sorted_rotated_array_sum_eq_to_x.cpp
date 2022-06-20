@@ -1,6 +1,6 @@
 /*
 author    : @akash kumar
-institute : @MIT
+institute : @MIT Moradabad 
 */
 
 #include<bits/stdc++.h>
